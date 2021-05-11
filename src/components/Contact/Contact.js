@@ -40,7 +40,7 @@ const Contact = () => {
         magna aliqua.</p>
       </div>
       <section className="contact-form">
-        <form action="https://formspree.io/f/mnqopaer" method="POST">
+        <form action="" method="POST">
           <div className="name-form">
             <label htmlFor="name"><span>*</span>Full Name</label>
             <input value={name} onChange={onNameChange} id="name" type="text" name="name" required />
