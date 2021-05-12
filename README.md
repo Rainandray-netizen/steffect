@@ -1,3 +1,19 @@
+# STEFFECT
+
+Steffect is a responsive e-commerce website for fashionable sunglasses. Steffect is a new business, and Christine Lyston (https://github.com/calyston) and I were given the task to design and build their website. Christine made the design using Adobe XD, with Steffect's owner giving her the colours and heading font to use, along with some existing websites for design inspiration. 
+
+For building Steffect, I worked with Christine and used Strapi and Stripe. Christine handled the HTML and SASS to build the web pages, before I integrated Strapi and Stripe into the website, and handled the website functionality and converted the HTML into React.
+
+### Static Website: 
+
+https://steffect.herokuapp.com/
+
+### Live Website:
+
+## Technologies Used
+
+React, SASS, Strapi, Stripe, GIT, Bash.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
